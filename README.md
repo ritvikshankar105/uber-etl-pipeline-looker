@@ -4,7 +4,7 @@
 This project demonstrates an end-to-end is pipeline to extract, transform, load and then visualize and analyze the NYC Taxi Trips dataset. 
 Stack used: GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, Looker Studio
 
-## Architecture 
+## Overall Architecture 
 <img src="taxi_schema_architecture.jpg">
 
 ## Tech Stack Used
