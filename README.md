@@ -29,10 +29,29 @@ More info about dataset can be found here:
 <img src="taxi_data_model.jpeg">
 
 ## Pipeline
+
+<div align="center">
+  <img src="Mage ETL Pipeline.png" alt="Mage ETL Pipeline" width="200" height="300">
+  <img src="Mage ETL Pipeline v2.png" alt="Mage ETL Pipeline v2" width="600" height="300">
+</div>
+
+## Looker Dashboard
+
+Open the dashboard [here](https://lookerstudio.google.com/reporting/c592dfcf-751f-4f86-b9a9-3ab77d0832e5).
+
+<div align="center">
+  <img src="Looker Dashboard.png" alt="Looker Dashboard">
+</div>
+
+
+
+
+
+<!-- ## Pipeline
 <img align="left" width="200" height="300" src="Mage ETL Pipeline.png">
 <img align="right" width="600" height="300" src="Mage ETL Pipeline v2.png">
 
 
 ## Looker Dashboard
 Open the dashboard [here](https://lookerstudio.google.com/reporting/c592dfcf-751f-4f86-b9a9-3ab77d0832e5).
-<img src="Looker Dashboard.jpeg">
+<img src="Looker Dashboard.png"> -->
