@@ -8,7 +8,7 @@ Stack used: GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQ
 <img src="taxi_schema_architecture.jpg">
 
 ## Tech Stack Used
-- Programming Language - Python
+Programming Language - Python
 
 Google Cloud Platform - Storage, Dashboarding
 1. Google Storage
