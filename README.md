@@ -30,7 +30,7 @@ More info about dataset can be found here:
 
 ## Pipeline
 <img align="left" width="300" height="400" src="Mage ETL Pipeline.png">
-<img align="right" width="800" height="500" src="Mage ETL Pipeline v2.png">
+<img align="right" width="600" height="400" src="Mage ETL Pipeline v2.png">
 
 <!-- <img src="Mage ETL Pipeline v2.png">
 <img src="Mage ETL Pipeline.png"> -->
