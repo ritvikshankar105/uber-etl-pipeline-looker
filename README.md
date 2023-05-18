@@ -29,5 +29,8 @@ More info about dataset can be found here:
 <img src="taxi_data_model.jpeg">
 
 ## Pipeline
-<img src="Mage ETL Pipeline v2.png">
-<img src="Mage ETL Pipeline.png">
+<img align="left" width="100" height="100" src="Mage ETL Pipeline.png">
+<img align="right" width="400" height="100" src="Mage ETL Pipeline v2.png">
+
+<!-- <img src="Mage ETL Pipeline v2.png">
+<img src="Mage ETL Pipeline.png"> -->
