@@ -32,5 +32,7 @@ More info about dataset can be found here:
 <img align="left" width="200" height="300" src="Mage ETL Pipeline.png">
 <img align="right" width="600" height="300" src="Mage ETL Pipeline v2.png">
 
-<!-- <img src="Mage ETL Pipeline v2.png">
-<img src="Mage ETL Pipeline.png"> -->
+
+## Looker Dashboard
+Open the dashboard [here](https://lookerstudio.google.com/reporting/c592dfcf-751f-4f86-b9a9-3ab77d0832e5).
+<img src="Looker Dashboard.jpeg">
