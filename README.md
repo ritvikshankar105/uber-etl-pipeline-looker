@@ -1,7 +1,7 @@
 # Uber/Taxi Data Engineering Project | Python, Mage ETL, GCP, BigQuery, Looker
 
 ## Introduction
-This project demonstrates an end-to-end is pipeline to extract, transform, load and then visualize and analyze the NYC Taxi Trips dataset. 
+This project demonstrates an end-to-end pipeline to extract, transform, load, and then visualize and analyze the NYC Taxi Trips dataset. 
 Stack used: GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, Looker Studio
 
 ## Overall Architecture 
