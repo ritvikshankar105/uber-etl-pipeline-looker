@@ -36,7 +36,7 @@ More info about dataset can be found here:
 </div>
 
 ## Looker Dashboard
-Open the dashboard [here](https://lookerstudio.google.com/reporting/c592dfcf-751f-4f86-b9a9-3ab77d0832e5).
+Dashboard [here](https://lookerstudio.google.com/reporting/c592dfcf-751f-4f86-b9a9-3ab77d0832e5) (i.e. once I pay my GCP bill - see screenshot below)
 <div>
   <img src="Looker Dashboard.png" alt="Looker Dashboard">
 </div>
